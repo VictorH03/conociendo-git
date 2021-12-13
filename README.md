@@ -10,5 +10,3 @@
 * tres
 
 FACTOS 👀:+1:
-Un cambio 
-Otro cambio
